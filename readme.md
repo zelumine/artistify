@@ -211,5 +211,13 @@ Below, an overview of the styles table.
 ---
 
 Done already ? Congratz !  
+
+
+![alt text][congratz]
+
+[congratz]: https://media.giphy.com/media/111ebonMs90YLu/giphy.gif "all done"
+
+
+
 You may want to try to improve this really basic design, or implement a feature of your choice.
 
