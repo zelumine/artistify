@@ -1,0 +1,14 @@
+{
+  "name": "artistify",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www",
+    "dev": "nodemon ./bin/www -e .hbs,.js",
+    "seed:artist": "node ./bin/seed.artist.js",
+    "seed:style": "node ./bin/seed.style.js",
+    "seed:label": "node ./bin/seed.label.js"
+  },
+  "dependencies": {
+  }
+}
