@@ -1,9 +1,7 @@
 # Artistify Workshop
 
-This group workshop will walk you through the steps to create a fullstack application.
-
-You guessed it : Artistify is a **CRUD** application where users are separated in 2 roles :
-
+This group workshop will walk you through the steps to create a fullstack application.  
+Artistify is a **CRUD** application where users are separated in 2 roles :
 - admin (logged in users)
 - visitor
 
