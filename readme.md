@@ -209,3 +209,9 @@ Below, an overview of the styles table.
 ![alt text][styles]
 
 [styles]: https://res.cloudinary.com/gdaconcept/image/upload/v1614557078/workshop-artistify/workshop-artistify-day-1-dashboard-style_hb6tkx.png "all styles table"
+
+---
+
+Done already ? Congratz !  
+You may want to try to improve this really basic design, or implement a feature of your choice.
+
